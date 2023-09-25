@@ -1,0 +1,95 @@
+body {
+    background-color: rgb(223, 223, 223);
+}
+header {
+    height: 180px;
+}
+.head {
+    color: rgb(104, 8, 239);
+    font-size: 40px;
+    text-align: center;
+    height: 10px;
+}
+.below {
+    font-size: small;
+    padding: 0px;
+    margin-top: 0px;
+    text-align: center;
+}
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.image {
+    height: 150px;
+    width: auto;
+}
+.content {
+    display: block;
+    justify-items: center;
+}
+.content1 {
+    background-color: aliceblue;
+    justify-content: center;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    margin-right: 0px;
+    max-width: 280px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+.content2 {
+    background-color: aliceblue;
+    justify-content: center;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+    max-width: 280px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+.content3 {
+    background-color: aliceblue;
+    justify-content: center;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+    max-width: 280px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+.course {
+    color: rgb(144, 8, 242);
+    font-weight: bold;
+    max-width: 250px;
+    height: 0px;
+    padding-top: 10px;
+
+}
+.sir-name-1 {
+    color: black;
+
+}
+.sir-name-2 {
+    padding-top: 30px;
+}
+.sir-name-3 {
+    padding-top: 30px;
+}
+.free1 {
+    font-weight: bold;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.free2 {
+    font-weight: bold;
+}
+.free3 {
+    font-weight: bold;
+}

@@ -1,0 +1,44 @@
+main {
+    background-color: white;
+    height: 200px;
+}
+footer {
+    background-color: rgb(45, 44, 44);
+    margin: 0px;
+}
+.pw {
+    height: 40px;
+}
+p {
+    color: white;
+    padding: 0px;
+}
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 100vh;
+}
+.Certificate {
+    height: 130px;
+    background-color: rgb(45, 44, 44);
+}
+.c1 {
+    padding: 90px;
+    width: 0px;
+}
+.c2 {
+    padding: 90px;
+    margin-left: 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.c3 {
+    padding: 90px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.C2 {
+    display: flex;
+    flex-wrap: wrap;
+}
